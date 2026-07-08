@@ -1,1 +1,5 @@
-System.out.println("Demo file added")
+class demo{
+    int a;
+    int b;
+    int c;
+}
